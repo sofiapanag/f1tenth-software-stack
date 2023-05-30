@@ -1,5 +1,5 @@
 # ESE-615-Final-Project
-ESE 615 Final Project repository of Team 6. For various resources and software development.
+ESE 615 Final Project repository of Team 6. For various resources and software development. <br>
 Website: https://derekhanbaliq.weebly.com/f1tenth.html
 
 ## Intro to Supported Repos
